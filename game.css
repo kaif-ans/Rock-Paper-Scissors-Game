@@ -1,0 +1,47 @@
+body {
+    background-color: rosybrown;
+
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    /* font-size: 210px; */
+    margin-top: 8%;
+}
+
+header {
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+#play {
+    background-color: rgb(83, 218, 83);
+    font-size: 35px;
+    border-radius: 100%;
+    padding: 15px;
+    margin-left: 45%;
+    cursor: pointer;
+    opacity: .8;
+    /* things will get a little lighter */
+}
+
+#play:hover {
+    transform: scale(1.2);
+    /* the element will get bigger when cursor comes on it */
+    opacity: 1;
+}
+
+.text {
+    font-size: 150px;
+}
+
+#player1Score {
+    font-size: xx-large;
+}
+
+#player2Score {
+    font-size: xx-large;
+}
