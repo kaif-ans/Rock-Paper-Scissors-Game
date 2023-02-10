@@ -29,7 +29,6 @@ header {
 
 #play:hover {
     transform: scale(1.2);
-    /* the element will get bigger when cursor comes on it */
     opacity: 1;
 }
 
