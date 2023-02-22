@@ -4,4 +4,3 @@ These shapes are "rock", "paper", and "scissors".
 
 
 
-
